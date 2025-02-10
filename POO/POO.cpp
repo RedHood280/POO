@@ -1,5 +1,5 @@
 // POO.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
+//Comentario confirmacion de github funciona correctamente
 
 #include <iostream>
 using namespace std;
